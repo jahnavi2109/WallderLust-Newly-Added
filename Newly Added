@@ -2,28 +2,33 @@
   "wallpapers": [
     {
       "author": "Jahnavi Gandhi",
-      "url": "https://i.ibb.co/ZYdHJT8/13-01.png",
-      "name": "Perspective"
-    },
-    {
-      "author": "Jahnavi Gandhi",
+      "category": "3D",
       "url": "https://i.ibb.co/sJfL3sj/17-01.jpg",
       "name": "Orange Star"
     },
     {
       "author": "Jahnavi Gandhi",
-      "url": "https://i.ibb.co/GkxX37x/51-01.png",
-      "name": "Pipes"
-    },
-    {
-      "author": "Jahnavi Gandhi",
+      "category": "Gradient",
       "url": "https://i.ibb.co/QpmZ2BS/64-01.png",
       "name": "Divide"
     },
     {
       "author": "Jahnavi Gandhi",
-      "url": "https://i.ibb.co/BjFb2hq/82-01.png",
+      "category": "Illustrations",
+      "url": "https://i.ibb.co/0V1L00F/82-01.png",
       "name": "Nature"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "Minimal",
+      "url": "https://i.ibb.co/TTn8v0D/37.png",
+      "name": "Flex"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "Pattern",
+      "url": "https://i.ibb.co/0nfkL9C/20-01.png",
+      "name": "Irregular"
     }
   ]
 }

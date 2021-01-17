@@ -2,33 +2,45 @@
   "wallpapers": [
     {
       "author": "Jahnavi Gandhi",
-      "category": "3D",
-      "url": "https://i.ibb.co/sJfL3sj/17-01.jpg",
-      "name": "Orange Star"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Gradient",
-      "url": "https://i.ibb.co/QpmZ2BS/64-01.png",
-      "name": "Divide"
+      "category": "Illustrations",
+      "url": "https://i.ibb.co/DD3R9wg/86-01.png",
+      "name": "Fishing"
     },
     {
       "author": "Jahnavi Gandhi",
       "category": "Illustrations",
-      "url": "https://i.ibb.co/0V1L00F/82-01.png",
-      "name": "Nature"
+      "url": "https://i.ibb.co/k1cfW83/85-01.png",
+      "name": "Fishing Eve"
     },
     {
       "author": "Jahnavi Gandhi",
-      "category": "Minimal",
-      "url": "https://i.ibb.co/TTn8v0D/37.png",
-      "name": "Flex"
+      "category": "3D",
+      "url": "https://i.ibb.co/fdr751P/84-01.png",
+      "name": "Shadow"
     },
     {
       "author": "Jahnavi Gandhi",
-      "category": "Pattern",
-      "url": "https://i.ibb.co/0nfkL9C/20-01.png",
-      "name": "Irregular"
+      "category": "3D",
+      "url": "https://i.ibb.co/GfZsTF9/84-2-01.png",
+      "name": "Shadow 2"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "3D",
+      "url": "https://i.ibb.co/sqcKTMm/84-1-01.png",
+      "name": "Shadow 3"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "Illustrations",
+      "url": "https://i.ibb.co/TTBN9z1/82-01.png",
+      "name": "Scary Night"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "Illustrations",
+      "url": "https://i.ibb.co/FYJr6KJ/83-01.png",
+      "name": "Scary Eve"
     }
   ]
 }

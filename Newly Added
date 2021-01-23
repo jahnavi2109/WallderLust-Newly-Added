@@ -1,46 +1,34 @@
 {
   "wallpapers": [
-    {
+     {
       "author": "Jahnavi Gandhi",
-      "category": "Illustrations",
-      "url": "https://i.ibb.co/DD3R9wg/86-01.png",
-      "name": "Fishing"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Illustrations",
-      "url": "https://i.ibb.co/k1cfW83/85-01.png",
-      "name": "Fishing Eve"
+      "category": "3D",
+      "url": "https://i.ibb.co/P4fFv9t/102-01.png",
+      "name": "Architecture"
     },
     {
       "author": "Jahnavi Gandhi",
       "category": "3D",
-      "url": "https://i.ibb.co/fdr751P/84-01.png",
-      "name": "Shadow"
+      "url": "https://i.ibb.co/qkTS9mY/105-1.png",
+      "name": "Stairs"
     },
     {
       "author": "Jahnavi Gandhi",
       "category": "3D",
-      "url": "https://i.ibb.co/GfZsTF9/84-2-01.png",
-      "name": "Shadow 2"
+      "url": "https://i.ibb.co/RDWM3Hd/105-01.png",
+      "name": "Stairs 2"
     },
     {
       "author": "Jahnavi Gandhi",
       "category": "3D",
-      "url": "https://i.ibb.co/sqcKTMm/84-1-01.png",
-      "name": "Shadow 3"
+      "url": "https://i.ibb.co/sK0MwBC/101-01.png",
+      "name": "Blue Building"
     },
     {
       "author": "Jahnavi Gandhi",
-      "category": "Illustrations",
-      "url": "https://i.ibb.co/TTBN9z1/82-01.png",
-      "name": "Scary Night"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Illustrations",
-      "url": "https://i.ibb.co/FYJr6KJ/83-01.png",
-      "name": "Scary Eve"
+      "category": "3D",
+      "url": "https://i.ibb.co/5vy6MYC/101-1.png",
+      "name": "Pink Building"
     }
   ]
 }

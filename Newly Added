@@ -1,94 +1,65 @@
 {
   "wallpapers": [
-   {
-      "author": "Jahnavi Gandhi",
-      "category": "Gradient",
-      "url": "https://i.ibb.co/6vY6wvL/138.png",
-      "name": "Oceany"
-    },
+   wallpapers": [
     {
       "author": "Jahnavi Gandhi",
       "category": "Gradient",
-      "url": "https://i.ibb.co/ZN7fZX6/137.png",
-      "name": "Watery"
+      "url": "https://i.ibb.co/60Mnvdv/132-01.png",
+      "name": "Red Night"
     },
     {
       "author": "Jahnavi Gandhi",
       "category": "Gradient",
-      "url": "https://i.ibb.co/mGqDhqX/139.png",
-      "name": "Pride"
+      "url": "https://i.ibb.co/Y0dHVxq/132-1.png",
+      "name": "Greeny Night"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "Random",
+      "url": "https://i.ibb.co/Y3fnLM8/97-01.png",
+      "name": "Day and Night"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "Random",
+      "url": "https://i.ibb.co/tsK3619/96.png",
+      "name": "Pixelated"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "Random",
+      "url": "https://i.ibb.co/YN0Bbcf/95-01.png",
+      "name": "Dark Wiring"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "Random",
+      "url": "https://i.ibb.co/fpdvhWm/95-1.png",
+      "name": "Wiring"
     },
     {
       "author": "Jahnavi Gandhi",
       "category": "Gradient",
-      "url": "https://i.ibb.co/bNgdfQF/140.png",
-      "name": "Mud"
+      "url": "https://i.ibb.co/nz3PdKt/89.png",
+      "name": "Blury"
     },
     {
       "author": "Jahnavi Gandhi",
-      "category": "Gradient",
-      "url": "https://i.ibb.co/xqX8Vrz/141.png",
-      "name": "Candy"
+      "category": "Simplistic",
+      "url": "https://i.ibb.co/QvhxVXW/78-01.png",
+      "name": "Oceany Blue"
     },
     {
       "author": "Jahnavi Gandhi",
-      "category": "Minimal",
-      "url": "https://i.ibb.co/9r9Rzt3/129.png",
-      "name": "Vague Pink"
+      "category": "Simplistic",
+      "url": "https://i.ibb.co/rQ1ZCQK/78-2-01.png",
+      "name": "Fruit Orange"
     },
     {
       "author": "Jahnavi Gandhi",
-      "category": "Minimal",
-      "url": "https://i.ibb.co/QcM1X4X/129-2.png",
-      "name": "Vague Grey"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Minimal",
-      "url": "https://i.ibb.co/NZBt75V/129-1.png",
-      "name": "Vague Green"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Random",
-      "url": "https://i.ibb.co/1KzPvZm/54-01.png",
-      "name": "Leather"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Random",
-      "url": "https://i.ibb.co/dcsDNbK/48.png",
-      "name": "Blurred"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Random",
-      "url": "https://i.ibb.co/jDN0TQC/5.png",
-      "name": "Vintage"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Random",
-      "url": "https://i.ibb.co/FgVBhgQ/4.png",
-      "name": "Vibe-in"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Random",
-      "url": "https://i.ibb.co/NLhdRV8/3.png",
-      "name": "Silence"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Random",
-      "url": "https://i.ibb.co/H7h9zrM/2.png",
-      "name": "Peaceful Always"
-    },
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "Random",
-      "url": "https://i.ibb.co/mSWGbZW/1.png",
-      "name": "Scary NIght"
+      "category": "Simplistic",
+      "url": "https://i.ibb.co/3yjP0bF/78-1-01.png",
+      "name": "Purple Dawn"
     }
   ]
 }

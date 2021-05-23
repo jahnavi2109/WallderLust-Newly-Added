@@ -1,64 +1,46 @@
 {
   "wallpapers": [
-    {
-      "author": "Jahnavi Gandhi",
-      "category": "3D",
-      "url": "https://i.ibb.co/42NFS6B/134-1.png",
-      "name": "Dispersed"
-    },
      {
       "author": "Jahnavi Gandhi",
       "category": "Simplistic",
-      "url": "https://i.ibb.co/VQZXpQN/133-01.png",
-      "name": "Bright-ed"
-    },
-     {
-      "author": "Jahnavi Gandhi",
-      "category": "Simplistic",
-      "url": "https://i.ibb.co/YZ3KsCY/133-2.png",
-      "name": "Saturated"
-    },
-     {
-      "author": "Jahnavi Gandhi",
-      "category": "Simplistic",
-      "url": "https://i.ibb.co/HpD17sF/133-1.png",
-      "name": "Peach-y"
-    },
-     {
-      "author": "Jahnavi Gandhi",
-      "category": "Simplistic",
-      "url": "https://i.ibb.co/DWFxCtd/127.png",
-      "name": "Quadrants"
+      "url": "https://i.ibb.co/RYWgzKZ/90-01.png",
+      "name": "Blocking"
     },
      {
       "author": "Jahnavi Gandhi",
       "category": "Minimal",
-      "url": "https://i.ibb.co/7n911sy/123.png",
-      "name": "Female"
+      "url": "https://i.ibb.co/tsVtbWt/124-1.png",
+      "name": "Differ"
     },
      {
       "author": "Jahnavi Gandhi",
-      "category": "3D",
-      "url": "https://i.ibb.co/4gK3yj0/119.png",
-      "name": "Moled Peached"
+      "category": "Simplistic",
+      "url": "https://i.ibb.co/7gyyyHr/144-1.png",
+      "name": "Dull But Simple"
     },
      {
       "author": "Jahnavi Gandhi",
-      "category": "3D",
-      "url": "https://i.ibb.co/TkhTxyN/119-3.png",
-      "name": "Moles Greened"
+      "category": "Random",
+      "url": "https://i.ibb.co/60MV3C3/147.png",
+      "name": "Fiah"
     },
      {
       "author": "Jahnavi Gandhi",
-      "category": "3D",
-      "url": "https://i.ibb.co/R7YPZw9/119-2.png",
-      "name": "Moles Purpled"
+      "category": "Gradient",
+      "url": "https://i.ibb.co/Dtfhkpn/153.png",
+      "name": "Divert"
     },
      {
       "author": "Jahnavi Gandhi",
-      "category": "3D",
-      "url": "https://i.ibb.co/q50mqY0/119-1.png",
-      "name": "Moles Yellowed"
+      "category": "Gradient",
+      "url": "https://i.ibb.co/g4F9FT5/157.png",
+      "name": "Whirl"
+    },
+     {
+      "author": "Jahnavi Gandhi",
+      "category": "Random",
+      "url": "https://i.ibb.co/L04Q8dn/148.png",
+      "name": "Stars"
     }
   ]
 }

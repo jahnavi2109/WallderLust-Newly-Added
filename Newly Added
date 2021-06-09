@@ -1,46 +1,64 @@
 {
   "wallpapers": [
-     {
+    {
       "author": "Jahnavi Gandhi",
       "category": "Random",
-      "url": "https://i.ibb.co/VtY6Srm/0000000-01.png",
-      "name": "Vibrance"
-    },
-     {
-      "author": "Jahnavi Gandhi",
-      "category": "Pattern",
-      "url": "https://i.ibb.co/55CDynz/000000-01.png",
-      "name": "Softness"
-    },
-     {
-      "author": "Jahnavi Gandhi",
-      "category": "Illustrations",
-      "url": "https://i.ibb.co/FYznnmt/0000-01.png",
-      "name": "Illusions"
-    },
-     {
-      "author": "Jahnavi Gandhi",
-      "category": "Illustrations",
-      "url": "https://i.ibb.co/vc4ZR01/0-01.png",
-      "name": "Vintage Vibe"
+      "url": "https://i.ibb.co/qp6XzWY/999-01.png",
+      "name": "Curtains"
     },
      {
       "author": "Jahnavi Gandhi",
       "category": "3D",
-      "url": "https://i.ibb.co/CKBs4Ct/00-01.png",
-      "name": "Peace-ful"
+      "url": "https://i.ibb.co/nMXZ9JG/998-01.png",
+      "name": "Gold"
+    },
+     {
+      "author": "Jahnavi Gandhi",
+      "category": "Random",
+      "url": "https://i.ibb.co/2gZYX3Q/996-01.png",
+      "name": "Foam-purple"
+    },
+     {
+      "author": "Jahnavi Gandhi",
+      "category": "Random",
+      "url": "https://i.ibb.co/51Gd1Xv/997.png",
+      "name": "Foam-Grey"
     },
      {
       "author": "Jahnavi Gandhi",
       "category": "Illustrations",
-      "url": "https://i.ibb.co/9vBS1R2/000-01.png",
-      "name": "Relaxation"
+      "url": "https://i.ibb.co/60hxkSL/995-01.png",
+      "name": "Glitch"
     },
      {
       "author": "Jahnavi Gandhi",
       "category": "Illustrations",
-      "url": "https://i.ibb.co/VtwLB15/00000-01.png",
-      "name": "Thick and Thin"
+      "url": "https://i.ibb.co/8xz6bXX/994-01.png",
+      "name": "Cave"
+    },
+     {
+      "author": "Jahnavi Gandhi",
+      "category": "Illustrations",
+      "url": "https://i.ibb.co/ZHgcDsx/993-01.png",
+      "name": "Artistic"
+    },
+     {
+      "author": "Jahnavi Gandhi",
+      "category": "Random",
+      "url": "https://i.ibb.co/FBf0M9q/992-01.png",
+      "name": "Smoke"
+    },
+     {
+      "author": "Jahnavi Gandhi",
+      "category": "Pattern",
+      "url": "https://i.ibb.co/z6yqxhv/991-01.png",
+      "name": "Greener-y"
+    },
+     {
+      "author": "Jahnavi Gandhi",
+      "category": "Illustrations",
+      "url": "https://i.ibb.co/3f1nLLx/990-01.png",
+      "name": "Nature"
     }
   ]
 }
